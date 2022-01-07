@@ -1,0 +1,25 @@
+body{
+    background-color: #f5f5dd;
+}
+#k1{
+   
+    background-color: rgba(0, 0, 0, 1);
+}
+#k2{
+    
+    background-color: rgba(0, 0, 0, 0.6);
+}
+#k3{
+    
+    background-color: rgba(0, 0, 0, 0.4);
+}
+#k4{
+   
+    background-color: rgba(0, 0, 0, 0.2);
+}
+div{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+   
+}
